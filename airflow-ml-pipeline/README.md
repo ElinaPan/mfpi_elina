@@ -185,13 +185,13 @@ docker-compose up --build
 ## Скриншоты DAG-а
 
 ### DAG в списке:
-![Список DAGов](screenshots/list.png)
+![Список DAGов](screenshots/List.png)
 
 ### Общий вид DAG-а:
 ![Общий вид DAG](screenshots/DAG_overview.png)
 
 ### Успешный запуск:
-![Успешное выполнение DAG](screenshots/success.png)
+![Успешное выполнение DAG](screenshots/Success.png)
 
 
 
